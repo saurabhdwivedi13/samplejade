@@ -1,0 +1,20 @@
+{
+  "name": "jade_2_html_poc",
+  "version": "1.0.0",
+   "description": "sample poc for converting jade 2 html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "saurabh dwivedi",
+  "license": "UNLICENSED",
+  "repository": {
+    "type":"git",
+    "url":"https://github.com/saurabhdwivedi13/samplejade.git"
+  },
+  "devDependencies": {
+    "gulp":"^3.9.1",
+    "gulp-jade":"^1.1.0",
+    "rename":"^1.0.4"
+  }
+}
